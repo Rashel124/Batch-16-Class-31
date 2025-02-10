@@ -1,0 +1,63 @@
+
+
+Way of declaring variable....
+
+1. General Way
+2. Using var
+3. using let 
+4. using const 
+
+
+1. General Way: 
+
+ x = 550;
+ y = 660;
+
+result = x+y;
+
+console.log(result);
+
+2. Using Var:
+
+ var x = 550;
+ var y = 660;
+
+var result = x+y;
+
+console.log(result);
+
+3.Using let:
+
+let x = 550;
+let y = 660;
+
+let result = x+y;
+
+console.log(result);
+
+4. using const: 
+
+Using Var:
+
+ const x = 550;
+ const y = 660;
+
+const result = x+y;
+
+console.log(result);
+
+========================================================00========================================
+40, 50 
+
+
+Rules of declaring variable............
+
+
+Any Alphabets (a, b, c,d, e, x, y, z)
+Any Words (numberone, numbertwo, rahim, karim, number1, number_2,)
+
+numberOne, numberTwo, (Camel Case)
+
+Arithmetic Operator...........
+
++, -, *, /, %
